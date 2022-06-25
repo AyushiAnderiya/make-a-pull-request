@@ -2,4 +2,4 @@
 
 ## 2nd Year, B.Tech
 
-##  HTML, CSS, Java, JS, PHP, MYSQL
+##  HTML, CSS, Java, Javascript, PHP, MYSQL,
